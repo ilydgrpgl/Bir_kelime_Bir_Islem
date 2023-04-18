@@ -1,0 +1,11 @@
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\bin\Debug\Bir_Islem.exe.config
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\bin\Debug\Bir_Islem.exe
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\bin\Debug\Bir_Islem.pdb
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\obj\Debug\Bir_Islem.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\obj\Debug\Bir_Islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\obj\Debug\Bir_Islem.Form1.resources
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\obj\Debug\Bir_Islem.Properties.Resources.resources
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\obj\Debug\Bir_Islem.csproj.GenerateResource.cache
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\obj\Debug\Bir_Islem.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\obj\Debug\Bir_Islem.exe
+C:\Users\Ilayda\Desktop\c#\Bir_Kelime Bir_İslem\Bir_Islem\Bir_Islem\obj\Debug\Bir_Islem.pdb
